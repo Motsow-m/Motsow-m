@@ -8,13 +8,12 @@
 🌱 I’m currently learning HTML, CSS and Javascript
 <br/>
 
-- 💞️ I’m looking to collaborate on the basics of Front-end development
+💞️ I’m looking to collaborate on the basics of Front-end development
+  <br/>
+📫 How to reach me contact me on GitHub
   <br/>
   
-- 📫 How to reach me contact me on GitHub
-  <br/>
-  
-- 😄 Pronouns: She/her
+😄 Pronouns: She/her
    <br/>
    
  </p>
